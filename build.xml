@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<projet name="Sample Ant Int Project" default="info">
+<project name="Sample Ant Int Project" default="info">
 <target name="info">
 <echo> Hello World, sample Ant Int Project </echo>
 </target>
